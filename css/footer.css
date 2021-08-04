@@ -1,0 +1,11 @@
+.footer {
+  background: #101010;
+}
+
+.footer__hr {
+  width: 101px;
+  height: 4px;
+  background: #D87D4A;
+  border: none;
+}
+/*# sourceMappingURL=footer.css.map */
